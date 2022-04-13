@@ -2,6 +2,7 @@
 # THE WORDPRESS PROJET
 This projet is a Trello like Web App based on Vue.JS and the Wordpress API.
 
+NOT FINISHED, made in less than one week during the Coding Academy program.
 
 
 ## Authors
